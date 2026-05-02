@@ -5,9 +5,6 @@
 ## Overview
 This project is an **LLM-based Advanced Prompt Generator** designed to automate the process of prompt engineering by enhancing given input prompts using large language models (LLMs). Following established prompt engineering principles, the tool can generate advanced prompts with a simple click, leveraging LLM agents for optimized prompt generation.
 
-You can demo this solution on [Hugging Face Spaces](https://huggingface.co/spaces/Adam-Ben-Khalifa/Advanced_Prompt_Generator).
-
-Also you can check this [Medium article](https://medium.com/@AdamBenKhalifa/an-ai-agent-to-replace-prompt-engineers-ed2864e23549) about this solution for more details!
 
 ## Key Features
 - **Automated Prompt Engineering:** AI Agent based prompt engineering processes, requiring minimal user input.
@@ -185,7 +182,7 @@ The Fibonacci spiral should start with the first few Fibonacci numbers and visua
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Thunderhead-exe/Advanced-Prompt-Generator.git
+   git clone https://github.com/oceansideusa/llm-apg.git
    ```
 2. Install the dependencies:
    ```bash
@@ -224,4 +221,4 @@ This project is licensed under the terms of the [apache-2.0 License](LICENSE).
 ---
 
 ## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any bug reports, feature requests, or general feedback.
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any bug reports, feature requests, or general feedback. Email me at **iamincousa@gmail.com** for specific requests.
